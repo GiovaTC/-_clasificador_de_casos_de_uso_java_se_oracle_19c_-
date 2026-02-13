@@ -1,0 +1,3 @@
+CU-10|Generar Reportes|Administrador|Primario|Alta|Genera reportes del sistema
+CU-11|Consultar Datos|Usuario|Primario|Media|Consulta información
+CU-12|Soporte Tecnico|Soporte|Soporte|Baja|Atención de incidencias

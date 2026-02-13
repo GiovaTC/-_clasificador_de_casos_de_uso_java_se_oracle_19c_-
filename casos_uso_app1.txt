@@ -1,0 +1,3 @@
+CU-01|Registrar Usuario|Administrador|Primario|Alta|Permite registrar usuarios
+CU-02|Iniciar Sesion|Usuario|Primario|Media|Acceso al sistema
+CU-03|Cerrar Sesion|Usuario|Secundario|Baja|Finaliza la sesión
