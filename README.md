@@ -1,7 +1,9 @@
 # -_clasificador_de_casos_de_uso_java_se_oracle_19c_- :. 
 # Clasificador de Casos de Uso – Java SE + Oracle 19c .
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8e015b98-22fe-4749-b748-2ff57631f014" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8e015b98-22fe-4749-b748-2ff57631f014" />    
+
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/9017bf0e-d91e-488a-80aa-ef09503fd468" />        
 
 A continuación tienes una **solución profesional y completa** para **IntelliJ IDEA (Java SE)** que cumple con los siguientes objetivos:
 
