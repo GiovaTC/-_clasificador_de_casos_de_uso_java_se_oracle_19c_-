@@ -25,4 +25,4 @@ public class CasoUso {
     public String getTipo() {return tipo;}
     public String getComplejidad() {return complejidad;}
     public String getDescripcion() {return descripcion;}
-}   
+}
