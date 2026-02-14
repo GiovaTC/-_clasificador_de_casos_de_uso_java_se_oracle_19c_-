@@ -21,6 +21,6 @@ public class CasoUsoDAO {
         cs.setString(6, c.getDescripcion());
 
         cs.execute();
-        cs.close();
+        con.close();    
     }
-}   
+}
